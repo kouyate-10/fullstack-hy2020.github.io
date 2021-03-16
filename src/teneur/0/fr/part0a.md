@@ -1,6 +1,6 @@
 ---
 mainImage: ../../../images/part-0.svg
-part: 0
+part: 1
 letter: a
 lang: en
 ---
